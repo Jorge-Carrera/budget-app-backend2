@@ -13,7 +13,7 @@ const validateValues = (req, res, next) => {
     typeof from !== "string" ||
     typeof category !== "string"
   ) {
-    res.status(404).redirect("/Error");
+    res.status(404).redirect("/error");
   } else {
     next();
   }

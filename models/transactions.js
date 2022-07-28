@@ -1,23 +1,23 @@
 module.exports = [
   {
-    item_name: 'income',
+    item_name: 'Income',
     amount: 1000,
     date: 'January 22',
-    from: 'employer',
-    category: 'income'
+    from: 'Employer',
+    category: 'Income'
   },
   {
-    item_name: 'income',
+    item_name: 'Income',
     amount: 1000,
     date: 'January 29',
-    from: 'employer',
-    category: 'income'
+    from: 'Employer',
+    category: 'Income'
   },
   {
-    item_name: 'income',
+    item_name: 'Income',
     amount: 1000,
     date: 'Febuary 5',
-    from: 'employer',
-    category: 'income'
+    from: 'Employer',
+    category: 'Income'
   },
 ];
