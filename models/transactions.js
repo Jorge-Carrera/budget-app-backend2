@@ -2,21 +2,21 @@ module.exports = [
   {
     item_name: 'Income',
     amount: 1000,
-    date: 'January 22',
+    date: '2022-01-22',
     from: 'Employer',
     category: 'Income'
   },
   {
     item_name: 'Income',
     amount: 1000,
-    date: 'January 29',
+    date: '2022-01-29',
     from: 'Employer',
     category: 'Income'
   },
   {
     item_name: 'Income',
     amount: 1000,
-    date: 'Febuary 5',
+    date: '2022-02-05',
     from: 'Employer',
     category: 'Income'
   },
